@@ -127,16 +127,6 @@
       }
     },
     {
-      "key": "YiSo",
-      "name": "易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-      "timeout": 30
-    },
-    {
       "key": "找資源",
       "name": "找資源",
       "type": 3,
