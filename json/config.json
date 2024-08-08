@@ -33,17 +33,6 @@
       }
     },
      {
-      "key": "NG",
-      "name": "瓜瓜",
-      "type": 3,
-      "api": "csp_NG",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-
-      }
-    },
-    {
       "key": "Liangzi",
       "name": "量子影视",
       "type": 3,
