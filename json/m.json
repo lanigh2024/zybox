@@ -1,6 +1,6 @@
 //以下内容为互联网收集，只为自用。
 {
-  "spider": "./fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
+  "spider": "../jar/fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
@@ -29,7 +29,7 @@
     },
     {"key": "萌米","name": "👀┃萌米┃多线","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
-    {"key": "欢视","name": "👓┃欢视┃多线","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+    {"key": "欢视","name": "👓┃欢视┃多线","type": 3,"api": "csp_AppTT"，"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8IPB+BwH4Qma+opv"
     },
     {"key": "南瓜","name": "🎃┃南瓜┃多线","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1
     },
