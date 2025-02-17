@@ -9,34 +9,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": {}
-    },
-    {
-      "key": "KuaKeBa",
-      "name": "夸克吧",
-      "type": 3,
-      "api": "csp_KuaKeBa",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {}
-    },
-    {
-      "key": "DianYingYunJi",
-      "name": "电影云集",
-      "type": 3,
-      "api": "csp_DianYingYunJi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {}
-    },
-    {
-      "key": "KuaKeS",
-      "name": "夸克网盘社",
-      "type": 3,
-      "api": "csp_KuaKeS",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {}
-    },
+    }，    
     {
       "key": "BD",
       "name": "BD|首页",
@@ -45,25 +18,6 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "aHR0cHM6Ly93d3cueGx5czAxLmNvbS8="
-    },
-    {
-      "key": "Ddrk",
-      "name": "低端|首页",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://ddys.info/"
-      }
-    },
-    {
-      "key": "Tvb",
-      "name": "Tvb|首页",
-      "type": 3,
-      "api": "csp_HkTv",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "xb6v",
@@ -82,67 +36,6 @@
       "searchable": 1,
       "changeable": 0,
       "ext": ""
-    },
-    {
-      "key": "NCat",
-      "name": "网飞猫 | 影视",
-      "type": 3,
-      "api": "csp_NCat",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {}
-    },
-    {
-      "key": "glod",
-      "name": "金牌 | 影视",
-      "type": 3,
-      "api": "csp_Glod",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {}
-    },
-    {
-      "key": "DUB",
-      "name": "DUB",
-      "type": 3,
-      "api": "csp_DUB",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {}
-    },
-    {
-      "key": "QxiTv",
-      "name": "七喜 | 影视",
-      "type": 3,
-      "api": "csp_QxiTv",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {}
-    },
-    {
-      "key": "甲子",
-      "name": "甲子",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "ext": "http://211.101.237.197:6532/api.php/app/"
-    },
-    {
-      "key": "NN",
-      "name": "泥巴|首页",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "NG",
-      "name": "瓜瓜",
-      "type": 3,
-      "api": "csp_NG",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {}
     },
     {
       "key": "bili",
@@ -182,54 +75,6 @@
       "name": "在线之家",
       "type": 3,
       "api": "csp_Zxzj",
-      "searchable": "1",
-      "filterable": "0",
-      "changeable": 0,
-      "ext": {}
-    },
-    {
-      "key": "Mtyy",
-      "name": "麦田影院",
-      "type": 3,
-      "api": "csp_Mtyy",
-      "searchable": "1",
-      "filterable": "0",
-      "changeable": 0,
-      "ext": {}
-    },
-    {
-      "key": "Ikanbot",
-      "name": "爱看机器人",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": "1",
-      "filterable": "0",
-      "changeable": 0,
-      "ext": {}
-    },
-    {
-      "key": "JustLive",
-      "name": "JustLive | 直播",
-      "type": 3,
-      "api": "csp_JustLive",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "DaGongRen",
-      "name": "打工人",
-      "type": 3,
-      "api": "csp_DaGongRen",
-      "searchable": "1",
-      "filterable": "0",
-      "changeable": 0,
-      "ext": {}
-    },
-    {
-      "key": "WuMingMusic",
-      "name": "无名音乐",
-      "type": 3,
-      "api": "csp_WuMingMusic",
       "searchable": "1",
       "filterable": "0",
       "changeable": 0,
