@@ -1,5 +1,5 @@
 {
-  "spider": "http://cdn.qiaoji8.com/fix250217.jar;md5;af43496cbaaf5b4734fd2bfdaf3359a8",
+  "spider": "./jar/fix250217.jar",
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
     {
