@@ -24,7 +24,7 @@
     "分类起始页码": "1",
     "分类链接": "https://v.xlys.ltd.ua/s/{class}/{catePg}?type={cateId}&year={year}&order={by}",
     "分类名称": "不限&电影&电视剧",
-    "分类名称替换词": "all&0&1",
+    "分类名称替换词": "&0&1",
     //"筛选数据": {},
     "筛选数据": "ext",
     //{cateId}
