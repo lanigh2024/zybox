@@ -23,8 +23,8 @@
     "首页片单链接加后缀": "",
     "分类起始页码": "1",
     "分类链接": "https://v.xlys.ltd.ua/s/{cateId}/{catePg}?type={class}&year={year}&order={by}",
-    "分类名称": "全部&动作&爱情&喜剧&科幻&恐怖&战争&武侠&魔幻&剧情&动画&惊悚&灾难&悬疑&警匪&文艺&青春&冒险&犯罪&纪录&古装&奇幻&国语&综艺&历史&运动&美剧&韩剧&国产电视剧&日剧&英剧&泰剧&港台剧",
-    "分类名称替换词": "all&dongzuo&aiqing&xiju&kehuan&kongbu&zhanzheng&wuxia&mohuan&juqing&donghua&jingsong&zainan&xuanyi&jingfei&wenyi&qingchun&maoxian&fanzui&jilu&guzhuang&qihuan&guoyu&zongyi&lishi&yundong&meiju&hanju&guoju&riju&yingju&taiju&gangtaiju",
+    "分类名称": "全部&动作&爱情&喜剧&科幻&恐怖&战争&武侠&剧情&动画&灾难&悬疑&冒险&犯罪&纪录&古装&奇幻&国语&综艺&历史&运动&美剧&韩剧&日剧&英剧&泰剧&港台剧",
+    "分类名称替换词": "all&dongzuo&aiqing&xiju&kehuan&kongbu&zhanzheng&wuxia&juqing&donghua&zainan&xuanyi&maoxian&fanzui&jilu&guzhuang&qihuan&guoyu&zongyi&lishi&yundong&meiju&hanju&riju&yingju&taiju&gangtaiju",
     //"筛选数据": {},
     "筛选数据": "ext",
     //{cateId}
