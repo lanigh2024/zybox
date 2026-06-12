@@ -17,7 +17,16 @@
       "api": "csp_BD",
       "searchable": 1,
       "changeable": 0,
-      "ext": "aHR0cHM6Ly94bDAyLmNvbS5kZS8="
+      "ext": "aHR0cHM6Ly92LnhsMDEuZXUuY2MvLw=="
+    },
+    {
+      "key": "glod",
+      "name": "金牌 | 影视",
+      "type": 3,
+      "api": "csp_Glod",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "aHR0cHM6Ly93d3cudnYzbndqay5jb20v"
     },
     {
       "key": "xb6v",
